@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tatilsepeti.com%2Fantalya-otelleri&psig=AOvVaw1n27HK7fBd_NVdTL5yLJjo&ust=1713708749262000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiesdv80IUDFQAAAAAdAAAAABAE)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
