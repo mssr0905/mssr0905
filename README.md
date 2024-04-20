@@ -1,6 +1,6 @@
 # Full Stack Web Developer
 
-
+**Hello, I'm Musa. I recently graduated. I'm developing myself as a web developer. I studied backend and database in university. I did internships at Antalya Konyaaltı Municipality and Tekirdağ Metropolitan Municipality.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
